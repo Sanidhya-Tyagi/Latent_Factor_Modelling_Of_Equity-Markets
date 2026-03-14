@@ -7,3 +7,4 @@ Key Findings
   Sector-Tilt Factors: Factors 2-10 align with Energy (CVX, XOM, COP), Healthcare (JNJ, UNH), Industrials (CAT, GE), Communication (VZ, T), Materials.
 
   Crisis Correlation: All factors spike simultaneously during GFC (2008) and COVID (2020), showing sector diversification breaks down in stress.
+![Latent Factors show a lot of movement during the years with financial crisis showing the latent factors map real world factors](factor_year.jpg)
