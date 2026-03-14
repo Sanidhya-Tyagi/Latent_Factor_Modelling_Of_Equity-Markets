@@ -29,11 +29,11 @@ This project analyzes more than two decades (2000–2024) of U.S. large‑cap st
 
 - Sector Exposure Heatmap
   Displays average factor loadings by sector, making it easy to see which factors correspond to Financials, Energy, Healthcare, and other sectors.
-  ![Sector Exposure Heatmap](images/factor_heat.png)
+  ![Sector Exposure Heatmap](images/factor_heat.jpeg)
 
 - Factor Interpretation Table
   Summarizes each factor with its dominant sector, top stocks, and percentage of variance explained.
-  ![Factor Interpretation Table](images/factor_table.png)
+  ![Factor Interpretation Table](images/factor_table.jpeg)
 
 
 ## Methodology
